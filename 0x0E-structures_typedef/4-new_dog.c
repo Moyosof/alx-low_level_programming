@@ -1,5 +1,3 @@
-table File  51 lines (46 sloc)  812 Bytes
-   
 #include "dog.h"
 #include <stdio.h>
 #include <stdlib.h>
