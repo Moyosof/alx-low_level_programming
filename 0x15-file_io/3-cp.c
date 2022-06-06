@@ -39,4 +39,3 @@ int main(int argc, char *argv[])
 		dprintf(STDERR_FILENO, "Error: Can't close fd %i\n", fd2), exit(100);
 	return (0);
 }
-main.h
